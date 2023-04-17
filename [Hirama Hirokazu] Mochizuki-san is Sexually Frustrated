@@ -1,0 +1,33 @@
+{
+   "title":"[Hirama Hirokazu] Mochizuki-san is Sexually Frustrated",
+   "description":"",
+   "author":"Hirama Hirokazu",
+   "artist":"Hirama Hirokazu",
+   "cover":"https://i.imgur.com/pJmtZfG.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Q4XKAee"
+         },
+         "last_updated":1624606143,
+         "title":"Mochizuki-san is Sexually Frustrated",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MqLuNEy"
+         },
+         "last_updated":1624606143,
+         "title":"Mochizuki-san is Even More Sexually Frustrated",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/wThhmOv"
+         },
+         "last_updated":1624606143,
+         "title":"Mochizuki-san is Way More Sexually Frustrated",
+         "volume":"3"
+      }
+   }
+}
