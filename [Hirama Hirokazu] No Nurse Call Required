@@ -1,0 +1,41 @@
+{
+   "title":"[Hirama Hirokazu] No Nurse Call Required",
+   "description":"",
+   "author":"Hirama Hirokazu",
+   "artist":"Hirama Hirokazu",
+   "cover":"https://i.imgur.com/RXdJGmF.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8DwOmcg"
+         },
+         "last_updated":1624606143,
+         "title":"No Nurse Call Required",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/KTtwupZ"
+         },
+         "last_updated":1624606143,
+         "title":"No Nurse Call Required #01",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cF4U3Bq"
+         },
+         "last_updated":1624606143,
+         "title":"No Nurse Call Required #02",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cthu43N"
+         },
+         "last_updated":1624606143,
+         "title":"No Nurse Call Required #03",
+         "volume":"4"
+      }
+   }
+}
